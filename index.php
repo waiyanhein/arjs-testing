@@ -1,4 +1,4 @@
-<!doctype HTML>
+<?php echo "<!doctype HTML>"; ?>
 <html>
 <script src="https://aframe.io/releases/0.9.1/aframe.min.js"></script>
 <script src="https://raw.githack.com/jeromeetienne/AR.js/1.7.1/aframe/build/aframe-ar.js"></script>
